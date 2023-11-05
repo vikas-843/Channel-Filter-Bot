@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
+API_ID       = 25826048
+API_HASH     = "b486ee260537697fdfc56b2b61cbc049"
+BOT_TOKEN    = "6374070501:AAGyxXJvxQneKm0KzEyLVr9SYUn67gZROyo"
+SESSION      = "BQGKEwAANiSQ11C4Wk893wBSFlbzfKH2IZclr1y-tUTXiIQszoPqI9o9-o1cNFg7Mcw65Q1C_JjUg8QCbitbkMKLsH9IgiK4aaoMCTolPTf5tzTuoeR7o8M14TQT3UX1uypyVho73xBCoHE_ESlNCNVCCbiqMbaFdr8GL0OaXdHXTV55LS-4gBmBZJYgO7p5irmVIN1FzERyzcjCvzxjUnJM8in9HVpK_dAb6flISpOaOmv5q-WcrtJr-g8AGJkcfUrXXfKPN4dv1z5Bilhgd7pA_TSu1hOiXgKZQ_qItMHf2hWLKUd1NOB3I0oYzOKl4BOvMpr3qVUwWhcaCUDJOX_wJ9NTwwAAAAFhlqkyAA"
+DATABASE_URI = "mongodb+srv://bikashxd:bgtop@cluster0.gh1hqe3.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1002126379861
+ADMIN        = 6324330202
 CHANNEL      = "@GreyMatter_Bots"
