@@ -1,8 +1,9 @@
 API_ID       = 25826048
 API_HASH     = "b486ee260537697fdfc56b2b61cbc049"
 BOT_TOKEN    = "6374070501:AAGyxXJvxQneKm0KzEyLVr9SYUn67gZROyo"
-SESSION      = "BQGKEwAANiSQ11C4Wk893wBSFlbzfKH2IZclr1y-tUTXiIQszoPqI9o9-o1cNFg7Mcw65Q1C_JjUg8QCbitbkMKLsH9IgiK4aaoMCTolPTf5tzTuoeR7o8M14TQT3UX1uypyVho73xBCoHE_ESlNCNVCCbiqMbaFdr8GL0OaXdHXTV55LS-4gBmBZJYgO7p5irmVIN1FzERyzcjCvzxjUnJM8in9HVpK_dAb6flISpOaOmv5q-WcrtJr-g8AGJkcfUrXXfKPN4dv1z5Bilhgd7pA_TSu1hOiXgKZQ_qItMHf2hWLKUd1NOB3I0oYzOKl4BOvMpr3qVUwWhcaCUDJOX_wJ9NTwwAAAAFhlqkyAA"
+SESSION      = "BQBiMZkAPG4cnQS9tq2V0VxVAlFgveNVpLxNIs2BVG0yaSHSmEoDQJP3v4gdjYU8I1lpZlAQfVrTOiOGkpChOlIM1I4hxEVWcDcuQpJ_l2tJ8WmwCfV78mIBsr2I5_zn0GqS7yeFHIcRgJvVLIrhS_saUjDCST4zRNUysCX-NYdsO7fOrBdAyFeTwXiK5w4543cF5jlZkDQZOrxq5jqNqeAKWeZQpUaVUdeBfLMPvDd061QZgb2n6cZOMr0q_wbggaXfYpBmL3LXDJO7zdZw4pwZE1uL4poxyiqIoEPUmgZ1pzqoHNcQGK1QeGBYAfRR6PCHoNxuQor8_EUTo1sTC778fYnoAQAAAAGW8Ud6AA"
 DATABASE_URI = "mongodb+srv://bikashxd:bgtop@cluster0.gh1hqe3.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1002126379861
 ADMIN        = 6324330202
 CHANNEL      = "@GreyMatter_Bots"
+MONGO_URI = "mongodb+srv://vikas:vikas@vikas.yfezexk.mongodb.net/?retryWrites=true&w=majority"
